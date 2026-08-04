@@ -157,7 +157,7 @@ Meeting-Intelligence-Agent/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/mr-akash12/Meeting-Intelligence-Agent.git
+https://github.com/sangramkishorebeura-2002/Meeting-Intelligence-Agent.git
 
 cd Meeting-Intelligence-Agent
 ```
