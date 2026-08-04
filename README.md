@@ -242,7 +242,7 @@ streamlit run app.py
 
 ## Author
 
-Akash Kumar Nayak
+Sangram Kishore Beura
 
 Generative AI Engineer | Data Scientist | AI/ML Engineer
 
